@@ -1,11 +1,9 @@
 # ecoservice Accounting
 
-This branch includes different useful modules for **Odoo 9 Community** version.
+The official ecoservice Finance Interface and Accounting modules for Odoo v9.0 can be found in our shop and the official Odoo App Store.
 
-Please follow the link below to access our 9.0 enterprise branch.  
-This work is licensed under version 3 of the GNU Affero General Public License.
 
 ## Links
 * [Official Website](https://ecoservice.de/)
-* [Accounting V9 Enterpise](https://github.com/ecoservice/accounting/tree/9.0_enterprise)
-* [License](https://github.com/ecoservice/accounting/blob/9.0/LICENSE)
+* [ecoservice shop](https://ecoservice.de/shop)
+* [Odoo App Store](https://www.odoo.com/apps/modules/category/Accounting?search=ecoservice)
