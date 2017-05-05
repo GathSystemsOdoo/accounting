@@ -221,6 +221,7 @@ class ecofi(osv.osv):
                 error = _(u"The main account of the booking could not be resolved, the move has %s credit- and %s debitlines!") % (len(sollkonto), len(habenkonto))
                 error += "\n"
                 ecofikonto = ecofikonto_no_invoice
+                error = False
             else:
                 ecofikonto = invoice_mainaccount
         if ecofikonto:
